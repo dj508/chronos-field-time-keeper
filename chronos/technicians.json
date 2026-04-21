@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": "TECH-001",
+    "name": "Alex Rivet",
+    "email": "alex.r@chronos.io",
+    "pin": "1234"
+  },
+  {
+    "id": "TECH-002",
+    "name": "Sam Gear",
+    "email": "sam.g@chronos.io",
+    "pin": "5678"
+  },
+  {
+    "id": "TECH-003",
+    "name": "Jordan Flux",
+    "email": "jordan.f@chronos.io",
+    "pin": "0000"
+  }
+]
