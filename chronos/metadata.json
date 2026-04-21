@@ -1,0 +1,7 @@
+{
+  "name": "Chronos: Field Timekeeper 3",
+  "description": "A robust, mobile-first daily time-keeping app with offline storage, customer management, and detailed activity tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
